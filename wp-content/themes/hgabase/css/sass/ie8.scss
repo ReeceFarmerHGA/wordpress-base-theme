@@ -1,0 +1,21 @@
+@import '_vars';
+@import '_mixins';
+
+// use the @include piePolyfill mixin for rounded corner elements
+
+@charset "UTF-8";
+
+html, body {
+	height:100% !important;
+}
+html {
+	overflow-y: hidden;
+}
+body {
+	overflow-y: scroll !important;
+}
+@media \0screen {
+	img { 
+		width: auto;		/* Prevent height distortion in IE8. */
+	}
+}

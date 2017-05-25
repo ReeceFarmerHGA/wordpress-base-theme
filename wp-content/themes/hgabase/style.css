@@ -1,0 +1,12 @@
+.screen-reader-text{position:absolute !important;height:1px;width:1px;overflow:hidden;clip:rect(1px 1px 1px 1px);clip:rect(1px, 1px, 1px, 1px);padding:0 !important;line-height:0;text-indent:-9000px}/*!
+ * Theme Name: HGA Digital
+ * Theme URI: http://localhost/HGA-Digital
+ * Description: Bespoke website theme for HGA Digital developed by HGA Digital.
+ * Version: 1.0.0
+ * Author: Ian Austin (@djianaustin)
+ * Author URI: http://www.hgacreative.com/about/ian-austin
+ * Tags: custom-logo, custom-background, custom-colors, custom-header, custom-menu, one-column, two-columns, three-columns, four-columns
+ * Text Domain: hga-digital
+ * License: Commercial - not for resale
+ * License URI: -
+ */*{outline:none}html,body{direction:ltr;overflow-x:hidden;background-color:#fff;font-synthesis:none;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}body.custom-background{backface-visibility:hidden}.entry-content img{margin-bottom:1.5em;max-width:100%;height:auto}.alignleft,img.alignleft{display:inline;float:left;margin:0 1.5em 1.5em 0}.alignright,img.alignright{display:inline;float:right;margin:0 0 1.5em 1.5em}.aligncenter,img.aligncenter{margin:1.5em auto;display:block;clear:both}.wp-caption{margin-bottom:1.5em;text-align:center;padding-top:5px}.wp-caption img{border:0 none;padding:0;margin:0}.wp-caption p.wp-caption-text{line-height:1.5;font-size:10px;margin:0}.wp-smiley{margin:0 !important;max-height:1em}blockquote.left{margin-right:20px;text-align:right;margin-left:0;width:33%;float:left}blockquote.right{margin-left:20px;text-align:left;margin-right:0;width:33%;float:right}.size-full,.size-large,.size-medium,.size-thumbnail{max-width:100%;height:auto}.gallery-caption .post-id,.post,.page,.attachment,.sticky,.hentry{display:block}.post-date,.bypostauthor{font-style:italic}.screen-reader-text:focus{clip:auto !important;display:block;height:auto;left:5px;top:5px;width:auto;z-index:100000}h1,h2,h3,h4,h5,h6{font-family:'Montserrat', sans-serif}body,p,a,strong,ol,ul{font-family:'Open Sans', sans-serif}a{cursor:pointer}a:hover,a:focus{cursor:pointer}

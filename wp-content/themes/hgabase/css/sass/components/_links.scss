@@ -1,0 +1,7 @@
+/* LINKS */
+a {
+	cursor:pointer;
+	@include states() {
+		cursor:pointer;
+	}
+}
