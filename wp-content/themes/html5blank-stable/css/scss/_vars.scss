@@ -8,7 +8,7 @@
  */
 
 // Enviroment
-$dev_enviroment:				true;
+$dev_enviroment:			true;
 $website_url : if($dev_enviroment != true, "https://hgacreative.co.uk", "http://localhost/hgacreative");
 
 // Colours
@@ -26,6 +26,8 @@ $brand-success:				$green;
 $brand-warning:				$yellow;
 $brand-error:				$red;
 
+$text-color:				$black;
+
 // Breakpoints and grid
 $xs:						540px;
 $sm:						720px;
@@ -33,3 +35,10 @@ $md:						960px;
 $lg:						1140px;
 
 $gutter_width: 				15px;
+
+// Fonts
+$font-family-base:			"Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-size-base:			16px;
+$font-weight-base:			400;
+
+$line-height-base:			1.6;
