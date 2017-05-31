@@ -4382,15 +4382,62 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/wp-content\/themes\/html5blank-stable\/css\/skeleton-min.css": {
+	"\/wp-content\/themes\/html5blank-stable\/css\/scss\/.sass-cache\/667116d959d67a4836cfaecb6e524e8bbce1595b\/_vars.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/css\/scss\/.sass-cache\/667116d959d67a4836cfaecb6e524e8bbce1595b\/_vars.scssc",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/css\/scss\/.sass-cache\/667116d959d67a4836cfaecb6e524e8bbce1595b\/skeleton.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/css\/scss\/.sass-cache\/667116d959d67a4836cfaecb6e524e8bbce1595b\/skeleton.scssc",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/css\/scss\/.sass-cache\/667116d959d67a4836cfaecb6e524e8bbce1595b\/style.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/css\/scss\/.sass-cache\/667116d959d67a4836cfaecb6e524e8bbce1595b\/style.scssc",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/css\/scss\/_skeleton.scss": {
 		"aP": 0,
 		"bl": 0,
-		"ft": 16,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
 		"ma": 0,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/html5blank-stable\/css\/skeleton-min-min.css",
+		"oA": 1,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/css\/scss\/_skeleton.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 0,
+		"uL": 1
+		},
+	"\/wp-content\/themes\/html5blank-stable\/css\/scss\/_vars.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/css\/scss\/_vars.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/wp-content\/themes\/html5blank-stable\/css\/scss\/style.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/css\/style.css",
+		"oF": 2,
+		"oS": 3,
+		"uL": 0
 		},
 	"\/wp-content\/themes\/html5blank-stable\/css\/skeleton.css": {
 		"aP": 0,
@@ -4401,19 +4448,6 @@
 		"oAP": "\/wp-content\/themes\/html5blank-stable\/css\/skeleton-min.css",
 		"oF": 0,
 		"oS": 0
-		},
-	"\/wp-content\/themes\/html5blank-stable\/css\/skeleton.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/wp-content\/themes\/html5blank-stable\/css\/skeleton.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
 		},
 	"\/wp-content\/themes\/html5blank-stable\/css\/style.css": {
 		"aP": 0,

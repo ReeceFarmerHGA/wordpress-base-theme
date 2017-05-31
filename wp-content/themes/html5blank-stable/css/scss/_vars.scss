@@ -1,0 +1,35 @@
+/**
+ * CUSTOM VARIABLES
+ *
+ *	All variables should be configured in this file.
+ *	Use variables rather than hard values to maintain consistency throughout the design
+ *	and allow more flexiblity when updating and making tweaks.
+ *
+ */
+
+// Enviroment
+$dev_enviroment:				true;
+$website_url : if($dev_enviroment != true, "https://hgacreative.co.uk", "http://localhost/hgacreative");
+
+// Colours
+$white:						#fff;
+$black:						#333;
+$blue:						#21a2b7;
+$darkblue:					#0b73b7;
+$green:						#DAE088;
+$yellow:					#F9B64C;
+$red:						#B32C31;
+
+$brand-primary:				$blue;
+$brand-secondary:			$darkblue;
+$brand-success:				$green;
+$brand-warning:				$yellow;
+$brand-error:				$red;
+
+// Breakpoints and grid
+$xs:						540px;
+$sm:						720px;
+$md:						960px;
+$lg:						1140px;
+
+$gutter_width: 				15px;

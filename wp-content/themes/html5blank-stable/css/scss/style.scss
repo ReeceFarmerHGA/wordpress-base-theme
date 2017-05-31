@@ -1,0 +1,24 @@
+/**
+ * WORDPRESS THEME SASS FILES INSTRUCTIONS
+ *
+ *	1. Update the theme name, theme description and tags
+ *	2. Update the website url to localhost/{folder} if required
+ *	3. Update the theme_dir
+ *	4. Page styles should all be loaded into the pages folder
+ *	5. Components - such as the sidebar, widgets etc - should be loaded into the components folder
+ *	6. During testing this file can remain uncompressed
+ *	7. When ready for the production environment the enviroment variable should be updated
+ *	8. Compress the output to remove this comment and minify the final output
+ *
+ *	NB: To confirm to WordPress standards, ensure the CSS version of this file is rendered out
+ *		into the root as ~/style.css
+ */
+
+// Import vars
+@import "vars";
+
+// Skeleton framework
+@import "skeleton";
+
+// Components
+@import "components/*";

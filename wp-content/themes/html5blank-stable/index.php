@@ -2,7 +2,7 @@
 
 <div class="container">
 	<div class="row">
-		<main role="main" class="six columns">
+		<main role="main" class="sm6">
 			<section>
 				<h1><?php _e( 'Latest Posts', 'html5blank' ); ?></h1>
 				<?php get_template_part('loop'); ?>

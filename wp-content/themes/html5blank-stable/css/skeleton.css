@@ -28,13 +28,15 @@
 .container {
   position: relative;
   width: 100%;
-  max-width: 960px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 0 20px;
   box-sizing: border-box; }
 
-.column,
-.columns {
+*[class^="xs"],
+*[class^="sm"],
+*[class^="md"],
+*[class^="lg"] {
   width: 100%;
   float: left;
   box-sizing: border-box; }
@@ -49,22 +51,16 @@
 @media (min-width: 550px) {
   .container {
     width: 80%; }
-  .column,
-  .columns {
+  *[class^="xs"],
+  *[class^="sm"],
+  *[class^="md"],
+  *[class^="lg"] {
     margin-left: 4%; }
-  .column:first-child,
-  .columns:first-child {
-    margin-left: 0; }
-  .container {
-    width: 80%; }
-  .column,
-  .columns {
-    margin-left: 4%; }
-  *[class^="xs"]:first-child,
-  *[class^="sm"]:first-child,
-  *[class^="md"]:first-child,
-  *[class^="lg"]:first-child {
-    margin-left: 0; }
+    *[class^="xs"]:first-child,
+    *[class^="sm"]:first-child,
+    *[class^="md"]:first-child,
+    *[class^="lg"]:first-child {
+      margin-left: 0; }
   .sm1 {
     width: 4.66666666667%; }
   .sm2 {

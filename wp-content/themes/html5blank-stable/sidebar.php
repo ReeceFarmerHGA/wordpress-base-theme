@@ -1,5 +1,5 @@
 <!-- sidebar -->
-<aside class="sidebar six columns" role="complementary">
+<aside class="sidebar sm6" role="complementary">
 
 	<?php get_template_part('searchform'); ?>
 
