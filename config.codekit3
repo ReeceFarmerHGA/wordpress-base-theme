@@ -4336,881 +4336,384 @@
 		"oAP": "\/wp-content\/plugins\/index.php",
 		"oF": 0
 		},
-	"\/wp-content\/themes\/hgabase\/404.php": {
+	"\/wp-content\/themes\/html5blank-stable\/.gitignore": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/404.php",
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/.gitignore",
 		"oF": 0
 		},
-	"\/wp-content\/themes\/hgabase\/archive.php": {
+	"\/wp-content\/themes\/html5blank-stable\/404.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/archive.php",
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/404.php",
 		"oF": 0
 		},
-	"\/wp-content\/themes\/hgabase\/comments.php": {
+	"\/wp-content\/themes\/html5blank-stable\/archive.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/comments.php",
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/archive.php",
 		"oF": 0
 		},
-	"\/wp-content\/themes\/hgabase\/css\/bootstrap.min.css": {
+	"\/wp-content\/themes\/html5blank-stable\/author.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/author.php",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/category.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/category.php",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/comments.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/comments.php",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/css\/normalize.css": {
 		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/bootstrap.min-min.css",
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/css\/normalize-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/wp-content\/themes\/hgabase\/css\/boxsizing.htc": {
+	"\/wp-content\/themes\/html5blank-stable\/css\/skeleton-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/css\/skeleton-min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/css\/skeleton.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/css\/skeleton-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/css\/skeleton.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/css\/skeleton.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/wp-content\/themes\/html5blank-stable\/css\/style.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/css\/style-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/fonts\/readme.txt": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/boxsizing.htc",
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/fonts\/readme.txt",
 		"oF": 0
 		},
-	"\/wp-content\/themes\/hgabase\/css\/css\/ie7.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/css\/ie7-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/css\/ie8.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/css\/ie8-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/editor-style.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/editor-style-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/font-awesome.min.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/font-awesome.min-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/fonts\/fontawesome-webfont.eot": {
+	"\/wp-content\/themes\/html5blank-stable\/footer.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/fonts\/fontawesome-webfont.eot",
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/footer.php",
 		"oF": 0
 		},
-	"\/wp-content\/themes\/hgabase\/css\/fonts\/fontawesome-webfont.svg": {
+	"\/wp-content\/themes\/html5blank-stable\/functions.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/functions.php",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/header.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/header.php",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/img\/gravatar.jpg": {
+		"ft": 16384,
+		"iS": 3482,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/img\/gravatar.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/img\/icons\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/img\/icons\/favicon.ico",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/img\/icons\/touch.png": {
+		"ft": 32768,
+		"iS": 15472,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/img\/icons\/touch.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/img\/logo.png": {
+		"ft": 32768,
+		"iS": 4885,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/img\/logo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/img\/logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/fonts\/fontawesome-webfont.svg",
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/img\/logo.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/wp-content\/themes\/hgabase\/css\/fonts\/fontawesome-webfont.ttf": {
+	"\/wp-content\/themes\/html5blank-stable\/index.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/fonts\/fontawesome-webfont.ttf",
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/index.php",
 		"oF": 0
 		},
-	"\/wp-content\/themes\/hgabase\/css\/fonts\/fontawesome-webfont.woff": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/fonts\/fontawesome-webfont.woff",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/fonts\/fontawesome-webfont.woff2": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/fonts\/fontawesome-webfont.woff2",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/fonts\/FontAwesome.otf": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/fonts\/FontAwesome.otf",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/ie7.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/ie7-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/ie8.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/ie8-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/PIE.htc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/PIE.htc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/0e4ca66e6e23937882ae0ea261383ee3f166a03e\/_page.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/0e4ca66e6e23937882ae0ea261383ee3f166a03e\/_page.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/41229af5e31ecaadc5aa9b652ca4ab94a5b5e675\/%042c": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/41229af5e31ecaadc5aa9b652ca4ab94a5b5e675\/%042c",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/45a50ec36bf746e02602b3d6457fb9954080e523\/_buttons.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/45a50ec36bf746e02602b3d6457fb9954080e523\/_buttons.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/45a50ec36bf746e02602b3d6457fb9954080e523\/_component.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/45a50ec36bf746e02602b3d6457fb9954080e523\/_component.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/45a50ec36bf746e02602b3d6457fb9954080e523\/_links.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/45a50ec36bf746e02602b3d6457fb9954080e523\/_links.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/4797e2e5585b2d2b092515e8722de06baf29156a\/%042c": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/4797e2e5585b2d2b092515e8722de06baf29156a\/%042c",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/47f8798808f96922a35cdb8655eca63189fc21ae\/_news.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/47f8798808f96922a35cdb8655eca63189fc21ae\/_news.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/47f8798808f96922a35cdb8655eca63189fc21ae\/_our-work.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/47f8798808f96922a35cdb8655eca63189fc21ae\/_our-work.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/47f8798808f96922a35cdb8655eca63189fc21ae\/_page.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/47f8798808f96922a35cdb8655eca63189fc21ae\/_page.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/47f8798808f96922a35cdb8655eca63189fc21ae\/_project.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/47f8798808f96922a35cdb8655eca63189fc21ae\/_project.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/4ec9713083a0375d1b5671b8926691198d59f9cc\/%042c": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/4ec9713083a0375d1b5671b8926691198d59f9cc\/%042c",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/51bcedfb5913f2f56f4d49761ae4dfd4b5fe3c2a\/_chartist-settings.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/51bcedfb5913f2f56f4d49761ae4dfd4b5fe3c2a\/_chartist-settings.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/7362ffcf63851239fd31e3caa0ee77604b17632b\/_chartist.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/7362ffcf63851239fd31e3caa0ee77604b17632b\/_chartist.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_buttons-inputs.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_buttons-inputs.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_buttons.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_buttons.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_call-to-action.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_call-to-action.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_case-study.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_case-study.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_component.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_component.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_contact-us.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_contact-us.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_featured-work.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_featured-work.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_hero-banner.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_hero-banner.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_links.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_links.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_our-process.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_our-process.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_pager.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_pager.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_posts.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_posts.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_scroller-help.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_scroller-help.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_search.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_search.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_sidebar.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_sidebar.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_site-statistics.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_site-statistics.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_success-stories.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_success-stories.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_twitter.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/9ac6c6900ddc65a0beac04e9a038c5ed5fc56b52\/_twitter.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/b23a4880267360e1e7da621aa4f7d777930ec771\/%042c": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/b23a4880267360e1e7da621aa4f7d777930ec771\/%042c",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/d52ed1aa7593ed9eb579587e1978a9979cf8dfd4\/_colours.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/d52ed1aa7593ed9eb579587e1978a9979cf8dfd4\/_colours.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/d52ed1aa7593ed9eb579587e1978a9979cf8dfd4\/_footer.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/d52ed1aa7593ed9eb579587e1978a9979cf8dfd4\/_footer.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/d52ed1aa7593ed9eb579587e1978a9979cf8dfd4\/_header.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/d52ed1aa7593ed9eb579587e1978a9979cf8dfd4\/_header.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/d52ed1aa7593ed9eb579587e1978a9979cf8dfd4\/_mixins.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/d52ed1aa7593ed9eb579587e1978a9979cf8dfd4\/_mixins.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/d52ed1aa7593ed9eb579587e1978a9979cf8dfd4\/_nav.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/d52ed1aa7593ed9eb579587e1978a9979cf8dfd4\/_nav.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/d52ed1aa7593ed9eb579587e1978a9979cf8dfd4\/_typography.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/d52ed1aa7593ed9eb579587e1978a9979cf8dfd4\/_typography.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/d52ed1aa7593ed9eb579587e1978a9979cf8dfd4\/_vars.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/d52ed1aa7593ed9eb579587e1978a9979cf8dfd4\/_vars.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/d52ed1aa7593ed9eb579587e1978a9979cf8dfd4\/_wordpress-essentials.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/d52ed1aa7593ed9eb579587e1978a9979cf8dfd4\/_wordpress-essentials.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/d52ed1aa7593ed9eb579587e1978a9979cf8dfd4\/style.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/d52ed1aa7593ed9eb579587e1978a9979cf8dfd4\/style.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/f57c995a5a533c24ae38c03e0cf79b27c243638e\/_colours.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/f57c995a5a533c24ae38c03e0cf79b27c243638e\/_colours.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/f57c995a5a533c24ae38c03e0cf79b27c243638e\/_footer.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/f57c995a5a533c24ae38c03e0cf79b27c243638e\/_footer.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/f57c995a5a533c24ae38c03e0cf79b27c243638e\/_general.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/f57c995a5a533c24ae38c03e0cf79b27c243638e\/_general.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/f57c995a5a533c24ae38c03e0cf79b27c243638e\/_header.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/f57c995a5a533c24ae38c03e0cf79b27c243638e\/_header.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/f57c995a5a533c24ae38c03e0cf79b27c243638e\/_mixins.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/f57c995a5a533c24ae38c03e0cf79b27c243638e\/_mixins.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/f57c995a5a533c24ae38c03e0cf79b27c243638e\/_nav.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/f57c995a5a533c24ae38c03e0cf79b27c243638e\/_nav.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/f57c995a5a533c24ae38c03e0cf79b27c243638e\/_typography.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/f57c995a5a533c24ae38c03e0cf79b27c243638e\/_typography.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/f57c995a5a533c24ae38c03e0cf79b27c243638e\/_vars.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/f57c995a5a533c24ae38c03e0cf79b27c243638e\/_vars.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/f57c995a5a533c24ae38c03e0cf79b27c243638e\/_wordpress-essentials.scssc": {
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/f57c995a5a533c24ae38c03e0cf79b27c243638e\/_wordpress-essentials.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/f57c995a5a533c24ae38c03e0cf79b27c243638e\/style.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/f57c995a5a533c24ae38c03e0cf79b27c243638e\/style.scssc",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/fd7f5481ee8ea3d1536fce01899392c065b22fa9\/%042c": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/.sass-cache\/fd7f5481ee8ea3d1536fce01899392c065b22fa9\/%042c",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/_colours.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/_colours.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/_footer.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/_footer.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/_header.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/_header.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/_mixins.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/_mixins.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/_nav.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/_nav.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/_typography.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/_typography.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/_vars.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/_vars.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/_wordpress-essentials.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/_wordpress-essentials.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/components\/_buttons.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/components\/_buttons.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/components\/_component.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/components\/_component.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/components\/_links.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/components\/_links.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/ie7.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/ie7.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/ie8.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/ie8.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/pages\/_page.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/sass\/pages\/_page.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"\/wp-content\/themes\/hgabase\/css\/sass\/style.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/wp-content\/themes\/hgabase\/style.css",
-		"oF": 2,
-		"oS": 3,
-		"uL": 0
-		},
-	"\/wp-content\/themes\/hgabase\/favicon.ico": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/favicon.ico",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/footer.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/footer.php",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/front-page.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/front-page.php",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/functions.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/functions.php",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/header.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/header.php",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/images\/icons\/114x114.png": {
-		"ft": 32768,
-		"iS": 2251,
-		"oA": 0,
-		"oAP": "\/wp-content\/themes\/hgabase\/images\/icons\/114x114.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/wp-content\/themes\/hgabase\/images\/icons\/120x120.png": {
-		"ft": 32768,
-		"iS": 2118,
-		"oA": 0,
-		"oAP": "\/wp-content\/themes\/hgabase\/images\/icons\/120x120.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/wp-content\/themes\/hgabase\/images\/icons\/144x144.png": {
-		"ft": 32768,
-		"iS": 4848,
-		"oA": 0,
-		"oAP": "\/wp-content\/themes\/hgabase\/images\/icons\/144x144.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/wp-content\/themes\/hgabase\/images\/icons\/152x152.png": {
-		"ft": 32768,
-		"iS": 2516,
-		"oA": 0,
-		"oAP": "\/wp-content\/themes\/hgabase\/images\/icons\/152x152.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/wp-content\/themes\/hgabase\/images\/icons\/57x57.png": {
-		"ft": 32768,
-		"iS": 2427,
-		"oA": 0,
-		"oAP": "\/wp-content\/themes\/hgabase\/images\/icons\/57x57.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/wp-content\/themes\/hgabase\/images\/icons\/72x72.png": {
-		"ft": 32768,
-		"iS": 2377,
-		"oA": 0,
-		"oAP": "\/wp-content\/themes\/hgabase\/images\/icons\/72x72.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/wp-content\/themes\/hgabase\/images\/icons\/76x76.png": {
-		"ft": 32768,
-		"iS": 1500,
-		"oA": 0,
-		"oAP": "\/wp-content\/themes\/hgabase\/images\/icons\/76x76.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/wp-content\/themes\/hgabase\/index.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/index.php",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/js\/bootstrap.min.js": {
+	"\/wp-content\/themes\/html5blank-stable\/js\/lib\/conditionizr-4.3.0.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/wp-content\/themes\/hgabase\/js\/bootstrap.min-min.js",
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/js\/lib\/conditionizr-4.3.0.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/wp-content\/themes\/hgabase\/js\/custom.modernizr.js": {
+	"\/wp-content\/themes\/html5blank-stable\/js\/lib\/modernizr-2.7.1.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/wp-content\/themes\/hgabase\/js\/custom.modernizr-min.js",
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/js\/lib\/modernizr-2.7.1.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/wp-content\/themes\/hgabase\/js\/functions.js": {
+	"\/wp-content\/themes\/html5blank-stable\/js\/scripts.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/wp-content\/themes\/hgabase\/js\/functions-min.js",
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/js\/scripts-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/wp-content\/themes\/hgabase\/js\/html5.js": {
-		"ft": 64,
-		"mi": 1,
+	"\/wp-content\/themes\/html5blank-stable\/languages\/de_DE.mo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/languages\/de_DE.mo",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/languages\/de_DE.po": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/languages\/de_DE.po",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/languages\/es_CL.mo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/languages\/es_CL.mo",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/languages\/es_CL.po": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/languages\/es_CL.po",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/languages\/es_ES.mo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/languages\/es_ES.mo",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/languages\/es_ES.po": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/languages\/es_ES.po",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/languages\/fr_FR.mo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/languages\/fr_FR.mo",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/languages\/fr_FR.po": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/languages\/fr_FR.po",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/languages\/HTML5Blank.pot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/languages\/HTML5Blank.pot",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/languages\/hu_HU.mo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/languages\/hu_HU.mo",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/languages\/hu_HU.po": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/languages\/hu_HU.po",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/languages\/it_IT.mo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/languages\/it_IT.mo",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/languages\/it_IT.po": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/languages\/it_IT.po",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/languages\/nl_NL.mo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/languages\/nl_NL.mo",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/languages\/nl_NL.po": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/languages\/nl_NL.po",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/languages\/pt_BR.mo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/languages\/pt_BR.mo",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/languages\/pt_BR.po": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/languages\/pt_BR.po",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/languages\/ro_RO.mo": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/languages\/ro_RO.mo",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/languages\/ro_RO.po": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/languages\/ro_RO.po",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/loop.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/loop.php",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/page.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/page.php",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/pagination.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/pagination.php",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/html5blank-stable\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/wp-content\/themes\/hgabase\/js\/html5-min.js",
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/README.html",
 		"oF": 0,
-		"sC": 1,
-		"tS": 0
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
-	"\/wp-content\/themes\/hgabase\/lib\/custom_functions.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/lib\/custom_functions.php",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/lib\/do_actions.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/lib\/do_actions.php",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/lib\/wp_bootstrap_navwalker.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/lib\/wp_bootstrap_navwalker.php",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/page.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/page.php",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/readme.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/readme.txt",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/screenshot.png": {
+	"\/wp-content\/themes\/html5blank-stable\/screenshot.png": {
 		"ft": 32768,
-		"iS": 11302,
+		"iS": 55056,
 		"oA": 0,
-		"oAP": "\/wp-content\/themes\/hgabase\/screenshot.png",
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/screenshot.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/wp-content\/themes\/hgabase\/search.php": {
+	"\/wp-content\/themes\/html5blank-stable\/search.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/search.php",
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/search.php",
 		"oF": 0
 		},
-	"\/wp-content\/themes\/hgabase\/searchform.php": {
+	"\/wp-content\/themes\/html5blank-stable\/searchform.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/searchform.php",
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/searchform.php",
 		"oF": 0
 		},
-	"\/wp-content\/themes\/hgabase\/sidebar.php": {
+	"\/wp-content\/themes\/html5blank-stable\/sidebar.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/sidebar.php",
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/sidebar.php",
 		"oF": 0
 		},
-	"\/wp-content\/themes\/hgabase\/single.php": {
+	"\/wp-content\/themes\/html5blank-stable\/single.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/single.php",
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/single.php",
 		"oF": 0
 		},
-	"\/wp-content\/themes\/hgabase\/style.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/style-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/wp-content\/themes\/hgabase\/templates\/content-none.php": {
+	"\/wp-content\/themes\/html5blank-stable\/tag.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/templates\/content-none.php",
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/tag.php",
 		"oF": 0
 		},
-	"\/wp-content\/themes\/hgabase\/templates\/content-page.php": {
+	"\/wp-content\/themes\/html5blank-stable\/template-demo.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/templates\/content-page.php",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/templates\/content-single.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/templates\/content-single.php",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/templates\/content.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/templates\/content.php",
-		"oF": 0
-		},
-	"\/wp-content\/themes\/hgabase\/templates\/header-nav.php": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/templates\/header-nav.php",
+		"oAP": "\/wp-content\/themes\/html5blank-stable\/template-demo.php",
 		"oF": 0
 		},
 	"\/wp-content\/themes\/twentyfifteen\/404.php": {
