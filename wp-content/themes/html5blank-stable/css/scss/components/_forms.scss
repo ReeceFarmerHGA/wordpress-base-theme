@@ -46,7 +46,7 @@ input[type="url"]:focus,
 input[type="password"]:focus,
 textarea:focus,
 select:focus {
-	border: 1px solid #33C3F0;
+	border: 1px solid $brand-primary;
 	outline: 0;
 }
 label,
@@ -67,4 +67,10 @@ label > .label-body {
 	display: inline-block;
 	margin-left: .5rem;
 	font-weight: normal;
+}
+
+.form-group {
+	.form-input {
+		width: 100%;
+	}
 }

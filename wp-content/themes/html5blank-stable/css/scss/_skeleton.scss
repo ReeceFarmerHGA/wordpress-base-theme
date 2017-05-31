@@ -33,7 +33,7 @@
 	position: relative;
 	width: 100%;
 	margin: 0 auto;
-	padding: 0px $gutter_width;
+	padding: 0px $gutter-base;
 	box-sizing: border-box;
 	@media (min-width: $xs) { width: $xs; }
 	@media (min-width: $sm) { width: $sm; }
@@ -49,7 +49,7 @@
 .sm1, .sm2, .sm3, .sm4, .sm5, .sm6, .sm7, .sm8, .sm9, .sm10, .sm11, .sm12,
 .md1, .md2, .md3, .md4, .md5, .md6, .md7, .md8, .md9, .md10, .md11, .md12,
 .lg1, .lg2, .lg3, .lg4, .lg5, .lg6, .lg7, .lg8, .lg9, .lg10, .lg11, .lg12 {
-	padding: 0px $gutter_width;
+	padding: 0px $gutter-base;
 	float: left;
 	box-sizing: border-box;
 }
@@ -60,7 +60,7 @@
 	.xs3                      		{ width: 22%;            }
 	.xs4                      		{ width: 30.6666666667%; }
 	.xs5                      		{ width: 39.3333333333%; }
-	.xs6                      		{ width: 48%;            }
+	.xs6                      		{ width: 50%;            }
 	.xs7                      		{ width: 56.6666666667%; }
 	.xs8                      		{ width: 65.3333333333%; }
 	.xs9                      		{ width: 74.0%;          }
@@ -86,7 +86,7 @@
 	.sm3                      		{ width: 22%;            }
 	.sm4                      		{ width: 30.6666666667%; }
 	.sm5                      		{ width: 39.3333333333%; }
-	.sm6                      		{ width: 48%;            }
+	.sm6                      		{ width: 50%;            }
 	.sm7                      		{ width: 56.6666666667%; }
 	.sm8                      		{ width: 65.3333333333%; }
 	.sm9                      		{ width: 74.0%;          }
@@ -112,7 +112,7 @@
 	.md3                      		{ width: 22%;            }
 	.md4                      		{ width: 30.6666666667%; }
 	.md5                      		{ width: 39.3333333333%; }
-	.md6                      		{ width: 48%;            }
+	.md6                      		{ width: 50%;            }
 	.md7                      		{ width: 56.6666666667%; }
 	.md8                      		{ width: 65.3333333333%; }
 	.md9                      		{ width: 74.0%;          }
@@ -138,7 +138,7 @@
 	.lg3                      		{ width: 22%;            }
 	.lg4                      		{ width: 30.6666666667%; }
 	.lg5                      		{ width: 39.3333333333%; }
-	.lg6                      		{ width: 48%;            }
+	.lg6                      		{ width: 50%;            }
 	.lg7                      		{ width: 56.6666666667%; }
 	.lg8                      		{ width: 65.3333333333%; }
 	.lg9                      		{ width: 74.0%;          }

@@ -1,14 +1,11 @@
 /* Buttons
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.button,
-button,
-input[type="submit"],
-input[type="reset"],
-input[type="button"] {
+.btn,
+button {
 	display: inline-block;
 	height: 38px;
 	padding: 0 30px;
-	color: #555;
+	color: $text-color;
 	text-align: center;
 	font-size: 11px;
 	font-weight: 600;
@@ -22,41 +19,74 @@ input[type="button"] {
 	border: 1px solid #bbb;
 	cursor: pointer;
 	box-sizing: border-box;
-}
-.button:hover,
-button:hover,
-input[type="submit"]:hover,
-input[type="reset"]:hover,
-input[type="button"]:hover,
-.button:focus,
-button:focus,
-input[type="submit"]:focus,
-input[type="reset"]:focus,
-input[type="button"]:focus {
-	color: #333;
-	border-color: #888;
-	outline: 0;
-}
-.button.button-primary,
-button.button-primary,
-input[type="submit"].button-primary,
-input[type="reset"].button-primary,
-input[type="button"].button-primary {
-	color: #FFF;
-	background-color: #33C3F0;
-	border-color: #33C3F0;
-}
-.button.button-primary:hover,
-button.button-primary:hover,
-input[type="submit"].button-primary:hover,
-input[type="reset"].button-primary:hover,
-input[type="button"].button-primary:hover,
-.button.button-primary:focus,
-button.button-primary:focus,
-input[type="submit"].button-primary:focus,
-input[type="reset"].button-primary:focus,
-input[type="button"].button-primary:focus {
-	color: #FFF;
-	background-color: #1EAEDB;
-	border-color: #1EAEDB;
+	@include states() {
+		color: #333;
+		border-color: #888;
+		outline: 0;
+	}
+	&.btn--primary {
+		color: $white;
+		background-color: $brand-primary;
+		border-color: darken($brand-primary, 2%);
+		@include states() {
+			color: $white;
+			background-color: darken($brand-primary, 5%);
+			border-color: darken($brand-primary, 5%);
+			&:active {
+				background-color: darken($brand-primary, 10%);
+			}
+		}
+	}
+	&.btn--secondary {
+		color: $white;
+		background-color: $brand-secondary;
+		border-color: darken($brand-secondary, 2%);
+		@include states() {
+			color: $white;
+			background-color: darken($brand-secondary, 5%);
+			border-color: darken($brand-secondary, 5%);
+			&:active {
+				background-color: darken($brand-secondary, 10%);
+			}
+		}
+	}
+	&.btn--success {
+		color: $white;
+		background-color: $brand-success;
+		border-color: darken($brand-success, 2%);
+		@include states() {
+			color: $white;
+			background-color: darken($brand-success, 5%);
+			border-color: darken($brand-success, 5%);
+			&:active {
+				background-color: darken($brand-success, 10%);
+			}
+		}
+	}
+	&.btn--warning {
+		color: $white;
+		background-color: $brand-warning;
+		border-color: darken($brand-warning, 2%);
+		@include states() {
+			color: $white;
+			background-color: darken($brand-warning, 5%);
+			border-color: darken($brand-warning, 5%);
+			&:active {
+				background-color: darken($brand-warning, 10%);
+			}
+		}
+	}
+	&.btn--error {
+		color: $white;
+		background-color: $brand-error;
+		border-color: darken($brand-error, 2%);
+		@include states() {
+			color: $white;
+			background-color: darken($brand-error, 5%);
+			border-color: darken($brand-error, 5%);
+			&:active {
+				background-color: darken($brand-error, 10%);
+			}
+		}
+	}
 }

@@ -14,14 +14,15 @@ $website_url : if($dev_enviroment != true, "https://hgacreative.co.uk", "http://
 // Colours
 $white:						#fff;
 $black:						#333;
-$blue:						#21a2b7;
-$darkblue:					#0b73b7;
-$green:						#DAE088;
-$yellow:					#F9B64C;
-$red:						#B32C31;
+$blue:						#5bc0de;
+$darkblue:					#337ab7;
+$green:						#5cb85c;
+$yellow:					#f0ad4e;
+$red:						#d9534f;
+$pink:						#e50065;
 
-$brand-primary:				$blue;
-$brand-secondary:			$darkblue;
+$brand-primary:				$pink;
+$brand-secondary:			darken($pink, 10%);
 $brand-success:				$green;
 $brand-warning:				$yellow;
 $brand-error:				$red;
@@ -34,7 +35,9 @@ $sm:						720px;
 $md:						960px;
 $lg:						1140px;
 
-$gutter_width: 				15px;
+$gutter-base: 				15px;
+$gutter-lg:					30px;
+$gutter-xl:					60px;
 
 // Fonts
 $font-family-base:			"Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;

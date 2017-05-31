@@ -17,8 +17,8 @@ p {
 
 /* Links */
 a {
-	color: #1EAEDB;
+	color: $brand-primary;
 }
 a:hover {
-	color: #0FA0CE;
+	color: darken($brand-primary, 10%);
 }
