@@ -1,5 +1,27 @@
 /* POSTS */
-main {
+.post {
+	.post__details {
+		padding: 0px;
+		margin: 0px;
+		list-style: none;
+		li {
+			display: inline-block;
+			color: $lightgrey;
+			font-size: $font-size-small;
+			font-weight: 300;
+			&:not(:last-child) {
+				&:after {
+				    content: "|";
+				    display: inline-block;
+					padding-left: $gutter-base;
+					padding-right: $gutter-base;
+				}
+			}
+		}
+	}
+}
+
+main { // posts list
 	.posts-list {
 		.post:not(:last-child) {
 			border-bottom: 1px solid darken($white, 15%);

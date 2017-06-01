@@ -52,6 +52,7 @@
 	padding: 0px $gutter-base;
 	float: left;
 	box-sizing: border-box;
+	max-width: 100%;
 }
 
 @media (min-width: $xs) {

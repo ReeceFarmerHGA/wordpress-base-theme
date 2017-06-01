@@ -1,4 +1,8 @@
 /* Tables */
+.responsive-table {
+    max-width: 100%;
+    overflow: scroll;
+}
 table {
     width: 100%;
     th,

@@ -79,36 +79,38 @@
 				</p>
 			</section>
 			<section>
-				<table class="u-full-width">
-					<thead>
-						<tr>
-							<th>Name</th>
-							<th>Age</th>
-							<th>Sex</th>
-							<th>Location</th>
-						</tr>
-					</thead>
-					<tbody>
-						<tr>
-							<td>Reece Farmer</td>
-							<td><?php echo date(Y) - 1997 ?></td>
-							<td>Male</td>
-							<td>Carlisle</td>
-						</tr>
-						<tr>
-							<td>Ian Austin</td>
-							<td><?php echo date(Y) - 1992 ?></td>
-							<td>Male</td>
-							<td>Lancaster</td>
-						</tr>
-						<tr>
-							<td>Elliot Garner</td>
-							<td><?php echo date(Y) - 1993 ?></td>
-							<td>Male</td>
-							<td>Manchester</td>
-						</tr>
-					</tbody>
-				</table>
+				<div class="responsive-table">
+					<table>
+						<thead>
+							<tr>
+								<th>Name</th>
+								<th>Age</th>
+								<th>Sex</th>
+								<th>Location</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Reece Farmer</td>
+								<td><?php echo date(Y) - 1997 ?></td>
+								<td>Male</td>
+								<td>Carlisle</td>
+							</tr>
+							<tr>
+								<td>Ian Austin</td>
+								<td><?php echo date(Y) - 1992 ?></td>
+								<td>Male</td>
+								<td>Lancaster</td>
+							</tr>
+							<tr>
+								<td>Elliot Garner</td>
+								<td><?php echo date(Y) - 1993 ?></td>
+								<td>Male</td>
+								<td>Manchester</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
 			</section>
 			<section>
 				<pre>

@@ -4372,6 +4372,16 @@
 		"oAP": "\/wp-content\/themes\/hgabase\/comments.php",
 		"oF": 0
 		},
+	"\/wp-content\/themes\/hgabase\/css\/font-awesome.min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/hgabase\/css\/font-awesome.min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/wp-content\/themes\/hgabase\/css\/normalize.css": {
 		"aP": 0,
 		"bl": 0,
@@ -4798,6 +4808,46 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/wp-content\/themes\/hgabase\/fonts\/fontawesome-webfont.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/hgabase\/fonts\/fontawesome-webfont.eot",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/hgabase\/fonts\/fontawesome-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/hgabase\/fonts\/fontawesome-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/wp-content\/themes\/hgabase\/fonts\/fontawesome-webfont.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/hgabase\/fonts\/fontawesome-webfont.ttf",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/hgabase\/fonts\/fontawesome-webfont.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/hgabase\/fonts\/fontawesome-webfont.woff",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/hgabase\/fonts\/fontawesome-webfont.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/hgabase\/fonts\/fontawesome-webfont.woff2",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/hgabase\/fonts\/FontAwesome.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/hgabase\/fonts\/FontAwesome.otf",
+		"oF": 0
+		},
 	"\/wp-content\/themes\/hgabase\/fonts\/readme.txt": {
 		"ft": 8192,
 		"oA": 2,
@@ -5025,6 +5075,12 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/wp-content\/themes\/hgabase\/pagination.php",
+		"oF": 0
+		},
+	"\/wp-content\/themes\/hgabase\/README.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/hgabase\/README.html",
 		"oF": 0
 		},
 	"\/wp-content\/themes\/hgabase\/README.md": {

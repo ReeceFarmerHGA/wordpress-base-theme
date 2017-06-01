@@ -118,6 +118,9 @@ function hgabase_styles()
     wp_register_style('normalize', get_template_directory_uri() . '/css/normalize.css', array(), '1.0', 'all');
     wp_enqueue_style('normalize'); // Enqueue it!
 
+    wp_register_style('fontawesome', get_template_directory_uri() . '/css/font-awesome.min.css', array(), '1.0', 'all');
+    wp_enqueue_style('fontawesome'); // Enqueue it!
+
     wp_register_style('style', get_template_directory_uri() . '/css/style.css', array(), '1.0', 'all');
     wp_enqueue_style('style'); // Enqueue it!
 }
