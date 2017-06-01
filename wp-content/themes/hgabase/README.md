@@ -1,10 +1,10 @@
-# [HTML5 Blank](http://html5blank.com)
+# [HTML5 Blank](http://hgabase.com)
 
 Powerful shell for rapidly deploying your WordPress projects.
 
-* Project: [github.com/toddmotto/html5blank](https://github.com/toddmotto/html5blank)
-* Website: [html5blank.com](http://html5blank.com)
-* Twitter: [@html5blank](http://twitter.com/html5blank)
+* Project: [github.com/toddmotto/hgabase](https://github.com/toddmotto/hgabase)
+* Website: [hgabase.com](http://hgabase.com)
+* Twitter: [@hgabase](http://twitter.com/hgabase)
 * Author : [Todd Motto](http://toddmotto.com) // [@toddmotto](http://twitter.com/toddmotto)
 
 ## Contributors (in order of pull request)
@@ -12,11 +12,11 @@ Powerful shell for rapidly deploying your WordPress projects.
 
 ## Getting Started with HTML5 Blank
 
-Download the latest version from [html5blank.com](http://html5blank.com)
+Download the latest version from [hgabase.com](http://hgabase.com)
 
 ## Get involved! Make HTML5 Blank better
 
-There are a few ways to get involved, submit a Pull Request, or submit a comment on the website - [html5blank.com](http://html5blank.com)
+There are a few ways to get involved, submit a Pull Request, or submit a comment on the website - [hgabase.com](http://hgabase.com)
 
 ## Features
 

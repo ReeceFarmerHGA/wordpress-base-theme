@@ -4,7 +4,7 @@
 	<div class="row">
 		<main role="main" class="md8">
 			<section class="posts-list">
-				<h1><?php _e( 'Latest Posts', 'html5blank' ); ?></h1>
+				<h1><?php _e( 'Latest Posts', 'hgabase' ); ?></h1>
 				<?php get_template_part('loop'); ?>
 			</section>
 			<?php if(locate_template('pagination')): ?>
