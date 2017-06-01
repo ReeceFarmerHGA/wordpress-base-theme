@@ -7,7 +7,8 @@
 	text-align: center;
 	color: $text-color;
 	font-weight: 600;
-	border-radius: 4px;
+	border-radius: $border-radius-base;
+	box-sizing: border-box;
 	&.alert--primary {
 		color: $brand-primary;
 		border: 1px solid lighten($brand-primary, 20%);

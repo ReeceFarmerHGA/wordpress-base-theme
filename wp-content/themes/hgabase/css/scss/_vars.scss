@@ -23,6 +23,9 @@ $red:						#d9534f;
 $pink:						#e50065;
 $orange:					#F26B0F;
 
+$lightgrey:					#bbb;
+$grey:						#4D4D4D;
+
 $brand-primary:				$orange;
 $brand-secondary:			$blue;
 $brand-success:				$green;
@@ -46,6 +49,7 @@ $gutter-xl:					60px;
 $font-family-base:			"Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $font-size-base:			16px;
 $font-size-small:			14px;
+$font-size-smaller:			11px;
 
 $line-height-base:			1.6;
 
@@ -55,3 +59,6 @@ $font-size-h3:				16px;
 $font-size-h4:				14px;
 $font-size-h5:				14px;
 $font-size-h6:				10px;
+
+// Radius
+$border-radius-base:		4px;
