@@ -1,0 +1,206 @@
+/*
+* Skeleton V2.0.4
+* Copyright 2014, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 12/29/2014
+*/
+
+
+/* Table of contents
+––––––––––––––––––––––––––––––––––––––––––––––––––
+- Grid
+- Base Styles
+- Typography
+- Links
+- Buttons
+- Forms
+- Lists
+- Code
+- Tables
+- Spacing
+- Utilities
+- Clearing
+- Media Queries
+*/
+
+/* Grid
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.container {
+	width: 100%;
+	position: relative;
+	width: 100%;
+	margin: 0 auto;
+	padding: 0px $gutter-base;
+	box-sizing: border-box;
+	@media (min-width: $xs) { width: $xs; }
+	@media (min-width: $sm) { width: $sm; }
+	@media (min-width: $md) { width: $md; }
+	@media (min-width: $lg) { width: $lg; }
+}
+
+.row {
+	margin: 0px -15px;
+}
+
+.xs1, .xs2, .xs3, .xs4, .xs5, .xs6, .xs7, .xs8, .xs9, .xs10, .xs11, .xs12,
+.sm1, .sm2, .sm3, .sm4, .sm5, .sm6, .sm7, .sm8, .sm9, .sm10, .sm11, .sm12,
+.md1, .md2, .md3, .md4, .md5, .md6, .md7, .md8, .md9, .md10, .md11, .md12,
+.lg1, .lg2, .lg3, .lg4, .lg5, .lg6, .lg7, .lg8, .lg9, .lg10, .lg11, .lg12 {
+	padding: 0px $gutter-base;
+	float: left;
+	box-sizing: border-box;
+}
+
+@media (min-width: $xs) {
+	.xs1                      		{ width: 4.66666666667%; }
+	.xs2                      		{ width: 13.3333333333%; }
+	.xs3                      		{ width: 22%;            }
+	.xs4                      		{ width: 30.6666666667%; }
+	.xs5                      		{ width: 39.3333333333%; }
+	.xs6                      		{ width: 50%;            }
+	.xs7                      		{ width: 56.6666666667%; }
+	.xs8                      		{ width: 65.3333333333%; }
+	.xs9                      		{ width: 74.0%;          }
+	.xs10                     		{ width: 82.6666666667%; }
+	.xs11                     		{ width: 91.3333333333%; }
+	.xs12                     		{ width: 100%; }
+	.xsoffset1         				{ margin-left: 8.66666666667%; }
+	.xsoffset2          			{ margin-left: 17.3333333333%; }
+	.xsoffset3						{ margin-left: 26%;            }
+	.xsoffset4						{ margin-left: 34.6666666667%; }
+	.xsoffset5						{ margin-left: 43.3333333333%; }
+	.xsoffset6						{ margin-left: 52%;            }
+	.xsoffset7						{ margin-left: 60.6666666667%; }
+	.xsoffset8						{ margin-left: 69.3333333333%; }
+	.xsoffset9						{ margin-left: 78.0%;          }
+	.xsoffset10						{ margin-left: 86.6666666667%; }
+	.xsoffset11						{ margin-left: 95.3333333333%; }
+	.xsoffset12						{ margin-left: 100%; }
+}
+@media (min-width: $sm) {
+	.sm1                      		{ width: 4.66666666667%; }
+	.sm2                      		{ width: 13.3333333333%; }
+	.sm3                      		{ width: 22%;            }
+	.sm4                      		{ width: 30.6666666667%; }
+	.sm5                      		{ width: 39.3333333333%; }
+	.sm6                      		{ width: 50%;            }
+	.sm7                      		{ width: 56.6666666667%; }
+	.sm8                      		{ width: 65.3333333333%; }
+	.sm9                      		{ width: 74.0%;          }
+	.sm10                     		{ width: 82.6666666667%; }
+	.sm11                     		{ width: 91.3333333333%; }
+	.sm12                     		{ width: 100%; }
+	.smoffset1         				{ margin-left: 8.66666666667%; }
+	.smoffset2          			{ margin-left: 17.3333333333%; }
+	.smoffset3						{ margin-left: 26%;            }
+	.smoffset4						{ margin-left: 34.6666666667%; }
+	.smoffset5						{ margin-left: 43.3333333333%; }
+	.smoffset6						{ margin-left: 52%;            }
+	.smoffset7						{ margin-left: 60.6666666667%; }
+	.smoffset8						{ margin-left: 69.3333333333%; }
+	.smoffset9						{ margin-left: 78.0%;          }
+	.smoffset10						{ margin-left: 86.6666666667%; }
+	.smoffset11						{ margin-left: 95.3333333333%; }
+	.smoffset12						{ margin-left: 100%; }
+}
+@media (min-width: $md) {
+	.md1                      		{ width: 4.66666666667%; }
+	.md2                      		{ width: 13.3333333333%; }
+	.md3                      		{ width: 22%;            }
+	.md4                      		{ width: 30.6666666667%; }
+	.md5                      		{ width: 39.3333333333%; }
+	.md6                      		{ width: 50%;            }
+	.md7                      		{ width: 56.6666666667%; }
+	.md8                      		{ width: 65.3333333333%; }
+	.md9                      		{ width: 74.0%;          }
+	.md10                     		{ width: 82.6666666667%; }
+	.md11                     		{ width: 91.3333333333%; }
+	.md12                     		{ width: 100%; }
+	.mdoffset1         				{ margin-left: 8.66666666667%; }
+	.mdoffset2          			{ margin-left: 17.3333333333%; }
+	.mdoffset3						{ margin-left: 26%;            }
+	.mdoffset4						{ margin-left: 34.6666666667%; }
+	.mdoffset5						{ margin-left: 43.3333333333%; }
+	.mdoffset6						{ margin-left: 52%;            }
+	.mdoffset7						{ margin-left: 60.6666666667%; }
+	.mdoffset8						{ margin-left: 69.3333333333%; }
+	.mdoffset9						{ margin-left: 78.0%;          }
+	.mdoffset10						{ margin-left: 86.6666666667%; }
+	.mdoffset11						{ margin-left: 95.3333333333%; }
+	.mdoffset12						{ margin-left: 100%; }
+}
+@media (min-width: $lg) {
+	.lg1                      		{ width: 4.66666666667%; }
+	.lg2                      		{ width: 13.3333333333%; }
+	.lg3                      		{ width: 22%;            }
+	.lg4                      		{ width: 30.6666666667%; }
+	.lg5                      		{ width: 39.3333333333%; }
+	.lg6                      		{ width: 50%;            }
+	.lg7                      		{ width: 56.6666666667%; }
+	.lg8                      		{ width: 65.3333333333%; }
+	.lg9                      		{ width: 74.0%;          }
+	.lg10                     		{ width: 82.6666666667%; }
+	.lg11                     		{ width: 91.3333333333%; }
+	.lg12                     		{ width: 100%; }
+	.lgoffset1         				{ margin-left: 8.66666666667%; }
+	.lgoffset2          			{ margin-left: 17.3333333333%; }
+	.lgoffset3						{ margin-left: 26%;            }
+	.lgoffset4						{ margin-left: 34.6666666667%; }
+	.lgoffset5						{ margin-left: 43.3333333333%; }
+	.lgoffset6						{ margin-left: 52%;            }
+	.lgoffset7						{ margin-left: 60.6666666667%; }
+	.lgoffset8						{ margin-left: 69.3333333333%; }
+	.lgoffset9						{ margin-left: 78.0%;          }
+	.lgoffset10						{ margin-left: 86.6666666667%; }
+	.lgoffset11						{ margin-left: 95.3333333333%; }
+	.lgoffset12						{ margin-left: 100%; }
+}
+
+/* Base Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+body {
+	font-size: $font-size-base;
+	line-height: $line-height-base;
+	font-weight: 400;
+	font-family: $font-family-base;
+	color: $text-color;
+}
+
+/* Utilities
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.text-center {
+	text-align: center;
+}
+
+.text-left {
+	text-align: left;
+}
+
+.text-right {
+	text-align: right;
+}
+
+/* Misc
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+hr {
+	margin-top: 3rem;
+	margin-bottom: 3.5rem;
+	border-width: 0;
+	border-top: 1px solid darken($white, 10%);
+}
+
+
+/* Clearing
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+/* Self Clearing Goodness */
+.container:after,
+.row:after,
+.u-cf {
+	content: "";
+	display: table;
+	clear: both;
+}

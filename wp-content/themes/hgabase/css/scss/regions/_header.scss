@@ -1,0 +1,20 @@
+/* HEADER */
+header.header {
+	background-color: $black;
+	padding: $gutter-base 0px;
+	margin-bottom: $gutter-base;
+	color: $white;
+	a {
+		color: $white;
+	}
+	.logo {
+		float: left;
+		a {
+			@include ico('logo', auto, center center, transparent, no-repeat);
+			overflow: hidden;
+			width: 150px;
+			height: 35px;
+			display: block;
+		}
+	}
+}

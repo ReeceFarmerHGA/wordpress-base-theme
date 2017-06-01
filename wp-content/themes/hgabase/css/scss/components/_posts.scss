@@ -1,0 +1,10 @@
+/* POSTS */
+main {
+	.posts-list {
+		.post:not(:last-child) {
+			border-bottom: 1px solid darken($white, 15%);
+			padding-bottom: $gutter-lg;
+			margin-bottom: $gutter-lg;
+		}
+	}
+}

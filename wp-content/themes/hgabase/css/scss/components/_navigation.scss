@@ -1,0 +1,20 @@
+/* NAVIGATION */
+header.header {
+	nav.nav {
+		float: right;
+		ul {
+			list-style: none;
+			li {
+				margin-bottom: 0px;
+				a {
+					text-decoration: none;
+				}
+				&.current_page_item {
+					a {
+						color: $brand-primary;
+					}
+				}
+			}
+		}
+	}
+}
