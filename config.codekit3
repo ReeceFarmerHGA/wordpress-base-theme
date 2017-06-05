@@ -4668,6 +4668,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/wp-content\/themes\/hgabase\/css\/scss\/components\/_comments.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-content\/themes\/hgabase\/css\/scss\/components\/_comments.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/wp-content\/themes\/hgabase\/css\/scss\/components\/_forms.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -4932,6 +4945,15 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/hgabase\/js\/lib\/modernizr-2.7.1.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/themes\/hgabase\/js\/scripts-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/hgabase\/js\/scripts-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
