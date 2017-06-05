@@ -17,6 +17,10 @@ ignored by Webkit */
 	border-radius: $border-radius-base;
 	box-shadow: none;
 	box-sizing: border-box;
+	&:focus {
+		border: 1px solid $brand-primary;
+		outline: 0;
+	}
 }
 
 /* Removes awkward default styles on some inputs for iOS */
@@ -32,31 +36,24 @@ textarea {
 	-moz-appearance: none;
 	appearance: none;
 }
+
 textarea {
 	min-height: 65px;
 	padding-top: 6px;
 	padding-bottom: 6px;
+	max-width: 100%;
 }
-input[type="email"]:focus,
-input[type="number"]:focus,
-input[type="search"]:focus,
-input[type="text"]:focus,
-input[type="tel"]:focus,
-input[type="url"]:focus,
-input[type="password"]:focus,
-textarea:focus,
-select:focus {
-	border: 1px solid $brand-primary;
-	outline: 0;
-}
+
 fieldset {
 	padding: 0;
 	border-width: 0;
 }
+
 input[type="checkbox"],
 input[type="radio"] {
 	display: inline;
 }
+
 label > .label-body {
 	display: inline-block;
 	margin-left: .5rem;
@@ -68,6 +65,7 @@ form {
 		float: right;
 	}
 }
+
 .form-group {
 	margin-bottom: $gutter-base;
 	label,
@@ -79,5 +77,11 @@ form {
 	}
 	.form-input {
 		width: 100%;
+	}
+}
+
+.comment-form-comment {
+	label {
+		display: block;
 	}
 }

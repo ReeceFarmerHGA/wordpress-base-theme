@@ -19,6 +19,12 @@
 
 <?php endif; ?>
 
-<?php comment_form(); ?>
+<?php
+	$comments_args = array(
+        'class_submit' => 'btn btn--primary',
+	);
+?>
+
+<?php comment_form($comments_args); ?>
 
 </div>

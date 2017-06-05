@@ -4,7 +4,7 @@
 		<div class="row">
 			<main role="main" class="md8">
 				<!-- section -->
-				<section>
+				<section class="posts-list">
 					<h1><?php _e( 'Archives', 'hgabase' ); ?></h1>
 					<?php get_template_part('loop'); ?>
 					<?php get_template_part('pagination'); ?>
