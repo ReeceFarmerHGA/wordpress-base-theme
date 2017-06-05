@@ -32,7 +32,15 @@
 					</a>
 				</div>
 
-				<nav class="nav" role="navigation">
+				<button type="button" name="button" id="nav-toggle">
+					<span class="ham-bar"></span>
+					<span class="ham-bar"></span>
+					<span class="ham-bar"></span>
+				</button>
+				<nav class="nav" role="navigation" id="nav-collapse">
+					<div id="nav-close">
+						<i class="fa fa-times" aria-hidden="true"></i>
+					</div>
 					<?php hgabase_nav(); ?>
 				</nav>
 			</div>
