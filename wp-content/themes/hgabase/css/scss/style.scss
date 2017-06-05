@@ -19,7 +19,7 @@
 
 // Mixins
 @import "mixins";
- 
+
 // Skeleton framework
 @import "skeleton";
 
@@ -28,3 +28,10 @@
 
 // Regions
 @import "regions/*";
+
+::-moz-selection {
+	background: transparentize($brand-primary, .6);
+}
+::selection {
+	background: transparentize($brand-primary, .6);
+}
