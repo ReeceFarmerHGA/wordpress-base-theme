@@ -4500,6 +4500,12 @@
 		"oAP": "\/wp-content\/themes\/hgabase\/css\/scss\/.sass-cache\/a5030b0afff9815f80fa3ba7d499c3b6ccebde58\/_code.scssc",
 		"oF": 0
 		},
+	"\/wp-content\/themes\/hgabase\/css\/scss\/.sass-cache\/a5030b0afff9815f80fa3ba7d499c3b6ccebde58\/_comments.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/wp-content\/themes\/hgabase\/css\/scss\/.sass-cache\/a5030b0afff9815f80fa3ba7d499c3b6ccebde58\/_comments.scssc",
+		"oF": 0
+		},
 	"\/wp-content\/themes\/hgabase\/css\/scss\/.sass-cache\/a5030b0afff9815f80fa3ba7d499c3b6ccebde58\/_forms.scssc": {
 		"ft": 8192,
 		"oA": 1,
@@ -4954,15 +4960,6 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/hgabase\/js\/scripts-min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/wp-content\/themes\/hgabase\/js\/scripts.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/wp-content\/themes\/hgabase\/js\/scripts-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
