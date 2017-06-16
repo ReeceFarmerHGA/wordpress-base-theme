@@ -5106,6 +5106,12 @@
 		"oAP": "\/wp-content\/themes\/hgabase\/languages\/ro_RO.po",
 		"oF": 0
 		},
+	"\/wp-content\/themes\/hgabase\/lib\/custom_functions.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/hgabase\/lib\/custom_functions.php",
+		"oF": 0
+		},
 	"\/wp-content\/themes\/hgabase\/loop.php": {
 		"ft": 8192,
 		"oA": 2,

@@ -43,13 +43,26 @@
 	margin: 0px (-$gutter-base);
 }
 
-%column-styles {
-	padding: 0px $gutter-base;
-	float: left;
-	box-sizing: border-box;
-	max-width: 100%;
-	width: 100%;
-	position: relative;
+.hidden-lg {
+	display: block;
+	@media (min-width: $lg) { display: none; }
+}
+
+.hidden-md {
+	display: block;
+	@media (min-width: $md) { display: none; }
+	@media (min-width: $lg) { display: block; }
+}
+
+.hidden-sm {
+	display: block;
+	@media (min-width: $sm) { display: none; }
+	@media (min-width: $md) { display: block; }
+}
+
+.hidden-xs {
+	display: none;
+	@media (min-width: $sm) { display: block; }
 }
 
 // use grid.scss for columns
