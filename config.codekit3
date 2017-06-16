@@ -4831,20 +4831,10 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/style.css",
+		"oAP": "\/wp-content\/themes\/hgabase\/style.css",
 		"oF": 2,
 		"oS": 3,
 		"uL": 0
-		},
-	"\/wp-content\/themes\/hgabase\/css\/style.css": {
-		"aP": 0,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 2,
-		"oAP": "\/wp-content\/themes\/hgabase\/css\/style-min.css",
-		"oF": 0,
-		"oS": 0
 		},
 	"\/wp-content\/themes\/hgabase\/fonts\/fontawesome-webfont.eot": {
 		"ft": 8192,
@@ -5185,6 +5175,16 @@
 		"oA": 2,
 		"oAP": "\/wp-content\/themes\/hgabase\/single.php",
 		"oF": 0
+		},
+	"\/wp-content\/themes\/hgabase\/style.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/wp-content\/themes\/hgabase\/style-min.css",
+		"oF": 0,
+		"oS": 0
 		},
 	"\/wp-content\/themes\/hgabase\/tag.php": {
 		"ft": 8192,

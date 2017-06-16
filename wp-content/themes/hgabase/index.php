@@ -123,11 +123,6 @@
 }
 					</code>
 				</pre>
-			</section>
-			<section>
-				<h3>Broken image</h3>
-				<img src="broken.jpg" alt="A fully functioning image">
-			</section>
 		</main>
 
 		<?php get_sidebar(); ?>
