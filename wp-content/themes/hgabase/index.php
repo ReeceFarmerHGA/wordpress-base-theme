@@ -19,6 +19,7 @@
 				<h4>Heading 4</h4>
 				<h5>Heading 5</h5>
 				<h6>Heading 6</h6>
+				<hr>
 				<p>This is a regular paragraph containing a sentence followed by some lipsum Aenean lacinia bibendum nulla sed consectetur. Donec ullamcorper nulla non metus auctor fringilla. Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Curabitur blandit tempus porttitor.</p>
 				<small>This is some small text underneath a paragraph</small>
 			</section>

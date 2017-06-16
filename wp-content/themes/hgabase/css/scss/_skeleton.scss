@@ -95,8 +95,8 @@ body {
 /* Misc
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 hr {
-	margin-top: 3rem;
-	margin-bottom: 3.5rem;
+	margin-top: $gutter-lg;
+	margin-bottom: $gutter-lg;
 	border-width: 0;
 	border-top: 1px solid darken($white, 10%);
 }
