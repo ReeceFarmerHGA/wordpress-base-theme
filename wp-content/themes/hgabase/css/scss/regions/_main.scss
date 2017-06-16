@@ -5,3 +5,34 @@ main {
 		margin-bottom: $gutter-lg;
 	}
 }
+
+img {
+	min-height: 100px;
+	position: relative;
+	&:before {
+		content: " ";
+		display: block;
+		position: absolute;
+		left: 0;
+		height: 100%;
+		width: 100%;
+		background-color: darken($white, 10%);
+		border: 2px dotted darken($white, 30%);
+		border-radius: $border-radius-base;
+		box-sizing: border-box;
+	}
+	&:after {
+		content: "\f127" "'" attr(alt) "' is broken";
+		display: block;
+		font-size: $font-size-base;
+		font-style: normal;
+		font-family: FontAwesome;
+		color: darken($white, 30%);
+		position: absolute;
+		left: 10px;
+		right: 10px;
+		text-align: center;
+		top: 50%;
+		transform: translateY(-50%);
+	}
+}
