@@ -121,7 +121,7 @@ function hgabase_styles()
     wp_register_style('fontawesome', get_template_directory_uri() . '/css/font-awesome.min.css', array(), '1.0', 'all');
     wp_enqueue_style('fontawesome'); // Enqueue it!
 
-    wp_register_style('style', get_template_directory_uri() . '/css/style.css', array(), '1.0', 'all');
+    wp_register_style('style', get_template_directory_uri() . '/css/style.css', array(), time(), 'all');
     wp_enqueue_style('style'); // Enqueue it!
 }
 
@@ -451,4 +451,11 @@ function html5_shortcode_demo_2($atts, $content = null) // Demo Heading H2 short
     return '<h2>' . $content . '</h2>';
 }
 
-?>
+/**
+ * 	Fetch any custom functions that are above and beyond the basic functionality
+ *	of the core WordPress product.  This include schema data etc.
+ *
+ *	@since PiTH 1.0.0
+ */
+require get_template_directory() . '/lib/custom_functions.php';
+remove_action('wp_head', 'wp_generator');

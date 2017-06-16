@@ -4542,6 +4542,12 @@
 		"oAP": "\/wp-content\/themes\/hgabase\/css\/scss\/.sass-cache\/a5030b0afff9815f80fa3ba7d499c3b6ccebde58\/_typography.scssc",
 		"oF": 0
 		},
+	"\/wp-content\/themes\/hgabase\/css\/scss\/.sass-cache\/bd911217532f7a388c8e60925405114121330495\/_grid.scssc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/wp-content\/themes\/hgabase\/css\/scss\/.sass-cache\/bd911217532f7a388c8e60925405114121330495\/_grid.scssc",
+		"oF": 0
+		},
 	"\/wp-content\/themes\/hgabase\/css\/scss\/.sass-cache\/bd911217532f7a388c8e60925405114121330495\/_mixins.scssc": {
 		"ft": 8192,
 		"oA": 1,
@@ -4595,6 +4601,19 @@
 		"oA": 1,
 		"oAP": "\/wp-content\/themes\/hgabase\/css\/scss\/.sass-cache\/d9b8f13bbae1a924f82d753306addc77c2147f3a\/_header.scssc",
 		"oF": 0
+		},
+	"\/wp-content\/themes\/hgabase\/css\/scss\/_grid.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/wp-content\/themes\/hgabase\/css\/scss\/_grid.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
 	"\/wp-content\/themes\/hgabase\/css\/scss\/_mixins.scss": {
 		"aP": 0,
@@ -4960,6 +4979,15 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/wp-content\/themes\/hgabase\/js\/scripts-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/wp-content\/themes\/hgabase\/js\/scripts.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/wp-content\/themes\/hgabase\/js\/scripts-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0

@@ -52,31 +52,7 @@
 	position: relative;
 }
 
-// generate grid classes
-$class-map: ( xs: $xs, sm: $sm, md: $md, lg: $lg );
-@each $key,$value in $class-map {
-	$i: 1;
-	@while $i <= $columns {
-		.#{$key}#{$i} {
-			@extend %column-styles;
-		}
-		@media (min-width: $value) {
-			.#{$key}#{$i} { // grid (.xs12)
-				width: ($i / $columns) * 100%;
-			}
-			.#{$key}offset#{$i} { // offset (.xsoffset12)
-				margin-left: ($i / $columns) * 100%;
-			}
-			.#{$key}push#{$i} { // push (.xspush12)
-				left: ($i / $columns) * 100%;
-			}
-			.#{$key}pull#{$i} { // pull (.xspull12)
-				right: ($i / $columns) * 100%;
-			}
-			$i: $i + 1;
-		}
-	}
-}
+// use grid.scss for columns
 
 /* Base Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
