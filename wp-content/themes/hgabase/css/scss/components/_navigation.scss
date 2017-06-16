@@ -1,5 +1,5 @@
 /* NAVIGATION */
-header.header {
+header.header { // header specific styling goes in _header.scss
 	button#nav-toggle {
 		z-index: 9999;
 		position: relative;
@@ -24,10 +24,18 @@ header.header {
 	}
 	nav.nav {
 		float: right;
-		ul {
+		ul.primary {
 			list-style: none;
+			margin-bottom: 0px;
 			li {
-				margin-bottom: 0px;
+				margin-bottom: 15px;
+				@include from-width($sm) {
+				    display: inline-block;
+					margin-bottom: 0px;
+				}
+				&:not(:last-child) {
+					margin-right: 30px;
+				}
 				a {
 					text-decoration: none;
 				}

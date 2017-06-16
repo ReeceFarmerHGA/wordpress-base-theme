@@ -67,7 +67,7 @@ function hgabase_nav()
 {
 	wp_nav_menu(
 	array(
-		'theme_location'  => 'header-menu',
+		'theme_location'  => 'primary',
 		'menu'            => '',
 		'container'       => 'div',
 		'container_class' => 'menu-{menu slug}-container',
@@ -80,7 +80,7 @@ function hgabase_nav()
 		'after'           => '',
 		'link_before'     => '',
 		'link_after'      => '',
-		'items_wrap'      => '<ul>%3$s</ul>',
+		'items_wrap'      => '<ul class="primary">%3$s</ul>',
 		'depth'           => 0,
 		'walker'          => ''
 		)

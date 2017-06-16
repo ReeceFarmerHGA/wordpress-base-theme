@@ -34,3 +34,10 @@ a {
 a:hover {
 	color: darken($brand-primary, 10%);
 }
+
+/* Blockquote */
+blockquote {
+	border-left: 4px solid $brand-primary;
+	margin: 30px 0px;
+    padding-left: 30px;
+}
